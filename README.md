@@ -1,1 +1,1 @@
-# Doctor-Directory-App-Minimizing-Waiting-Time-for-Patients-
+# Doctor-Directory-App
